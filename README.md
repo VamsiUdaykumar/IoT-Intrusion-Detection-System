@@ -1,10 +1,10 @@
 # Intrusion-Detection-System
 Two staged IDS specific to IoT networks where Signature based IDS and Anomaly based IDS which is trained and classified using machine learning in this case CNN-LSTM is used together in component based architecture.
 
-Project Title: 
+Project Title:
 IoT Intrusion Detection System
 
-Abstract
+Abstract:
 To build a cloud-based application which will be positioned at the gateway
 of IOT devices in the flowchart. This application is a combination of both Signature-based IDS and
 Anomaly-based IDS. 
